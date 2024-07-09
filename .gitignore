@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Flask
+venv
+__pycache__/
+instance/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# General
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+*.sublime-project
+*.sublime-workspace
